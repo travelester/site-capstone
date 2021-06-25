@@ -12,7 +12,12 @@ We want people who share the same physical location or other attributes to be ab
 
 ## Expected Features List
 
-Add a list of your groups's brainstormed features list
+User login system/Registration
+Maps interface with ability to create events
+Rider or driver for event
+Add description to and from where, # of people
+Adding confirmation
+
 
 ## Related Work
 
