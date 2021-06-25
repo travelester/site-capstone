@@ -6,7 +6,7 @@ SITE Course Year: **2021**
 
 Cohort: **Workday**
 
-Team Member Names:** Elias Arghand, William Huang, Shayan Sarnevesht**
+Team Member Names: **Elias Arghand, William Huang, Shayan Sarnevesht**
 
 Mentors Names: **Mike Griffin, Forrest Dodds, Victor Wei**
 
