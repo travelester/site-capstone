@@ -1,4 +1,4 @@
-# Project Proposal
+# Project Proposal - Travelster
 
 Pod Members: **Elias Arghand, William Huang, Shayan Sarnevesht**
 
