@@ -1,6 +1,6 @@
 # Project Proposal
 
-Pod Members: **ethan sarnevesht, elias arghand, william huang**
+Pod Members: **ethan shayan sarnevesht, elias arghand, william huang**
 
 ## Problem Statement
 
