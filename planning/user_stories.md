@@ -24,4 +24,4 @@ Include at least 10 user stories.
 
 ## Wireframe (Bonus)
 
-Insert link or image to your group's wireframe. 
+[Figma wireframe](https://www.figma.com/file/x2bmeXmXuJJHeOPMazRvjy/Untitled?node-id=0%3A1)
