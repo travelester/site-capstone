@@ -8,13 +8,19 @@ In a world where Uber and Lyft makes automobile rides uncomfortable with random 
 
 ## User Roles
 
-"college student": a university student that likes to go on trips to the beach, to national parks hiking, or other excursions with fellow college student
+"College student": a university student that likes to go on trips to the beach, to national parks hiking, or other excursions with fellow college student
 
-"commuter worker": A white-collar worker who has a long commute and thus wants to save gas and time by sharing commutes with his fellow co-workers in his area
+"Commuter worker": A white-collar worker who has a long commute and thus wants to save gas and time by sharing commutes with his fellow co-workers in his area
 
 ## User Personas
 
-Include at least 2 personas per User Role
+College student:
+* David is a college student that...
+* JB is...
+
+Commuter worker:
+* David is a softwar engineer that...
+* JB is...
 
 ## User Stories
 
@@ -22,6 +28,17 @@ Include at least 10 user stories.
 
 1. **As a [user role], I want to [what], so that [why]**
 
+1. As a College student, I want
+2. As a College student, I want
+3. As a College student, I want
+4. As a College student, I want
+5. As a College student, I want
+6. As a Commuter worker, I want
+7. As a Commuter worker, I want
+8. As a Commuter worker, I want
+9. As a Commuter worker, I want
+10. As a Commuter worker, I want
+
 ## Wireframe (Bonus)
 
-[Figma wireframe](https://www.figma.com/file/x2bmeXmXuJJHeOPMazRvjy/Untitled?node-id=0%3A1)
+Insert link or image to your group's wireframe. 
