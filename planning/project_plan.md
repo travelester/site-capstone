@@ -18,6 +18,10 @@ List the current user stories you will implement.
 
 List all the pages and screens in the app. Include wireframes for at least 3 of them.
 
+- Wireframe: https://www.figma.com/file/x2bmeXmXuJJHeOPMazRvjy/Travelster?node-id=0%3A1
+
+- Wireframe Prototype: https://www.figma.com/proto/x2bmeXmXuJJHeOPMazRvjy/Travelster?node-id=0%3A1&scaling=min-zoom&page-id=0%3A1
+
 ## Data Model
 
 Describe your app's data model using diagrams or tables
