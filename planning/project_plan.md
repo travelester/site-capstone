@@ -1,6 +1,6 @@
 # Project Plan
 
-Pod Members: **Add Pod Members Names**
+Pod Members: **Shayan Sarnevesht, Elias Arghand, William Huang**
 
 ## Problem Statement and Description
 
