@@ -6,6 +6,8 @@ Pod Members: **Shayan Sarnevesht, Elias Arghand, William Huang**
 
 Insert the latest summary of your problem statement and app description.
 
+In a world where Uber and Lyft makes automobile rides uncomfortable with random strangers taking you in their car, we want to make it easier for like-minded or similarly-situated people to carpool together in their activities and form new friendships
+
 ## User Roles and Personas
 
 #### User roles:
