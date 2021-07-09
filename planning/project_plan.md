@@ -56,9 +56,15 @@ List the API endpoints you will need to implement.
 
 | CRUD | HTTP Verb | Description | User Stories |
 | ---- | --------- | ----------- | ------------ |
-| Create | POST | Create a new user account | ? |
-| Create | POST | Sign into account | ? |
-| Read | GET | Get's user profile details | ? |
+| Create | POST | User signs up and id is created. Details are stored | 1 |
+| Create | POST | User logs in and receives authentication token | 4 |
+| Read | GET | User gets all events on the bulletin board. Page also displays current logged in user’s icon | 3 |
+| Read | GET | User gets more details about the event clicked on in the bulletin board. | 2 |
+| Create | POST | Create an event on the bulletin. POSTS the current user id, date, From, Destination, number of riders, time | 6 |
+| Read | GET | User profile page gets the current user clicked on. Gets the name, school, about me, ratings (stretch). | 5,8 |
+| Read | GET | Gets all trips for a specific user (trip contains information with time between two points and source/destination) | 7 |
+| Update | GET | Allow driver to update information regarding their trip. Requires current user id, date, From, Destination, number of riders, time. | 9 |
+| Update | PUT | Allow the user to update information regarding their account, including description, contact information, and social medias. | 5 |
 
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
