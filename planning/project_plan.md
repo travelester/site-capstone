@@ -50,7 +50,7 @@ List all the pages and screens in the app. Include wireframes for at least 3 of 
 
 Describe your app's data model using diagrams or tables
 
-### Users Table
+#### Users Table
 Holds user data
 
 | name | type | other constraints |
@@ -62,7 +62,7 @@ Holds user data
 | imgurl | text | not null |
 | created_at | timestamp | not null, defaulted to now |
 
-### Groups Table
+#### Groups Table
 Holds groups data (same thing as a "trip" or "event")
 
 | name | type | other constraints |
@@ -71,7 +71,7 @@ Holds groups data (same thing as a "trip" or "event")
 | trip_id | integer | not null |
 | created_at | timestamp | not null, defaulted to now |
 
-### Groups-Users Joiner Table
+#### Groups-Users Joiner Table
 Serves as table to make the many-to-many relationship between users and groups work.
 Allows a group to have multiple users, and user to be in multiple groups.
 
