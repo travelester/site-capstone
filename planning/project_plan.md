@@ -8,11 +8,11 @@ Insert the latest summary of your problem statement and app description.
 
 ## User Roles and Personas
 
-# User roles:
+#### User roles:
 "College student": a university student that likes to go on trips to the beach, to national parks hiking, or other excursions with fellow college student
 
 "Driver": A car enthusiast who likes driving and socializing and enjoys going on recreational excursions and doesn’t mind meeting new people to go with.
-# User Personas 
+#### User Personas 
 -Greg is an incoming freshman at XYZ college. He recently moved to XYZ college from ABC town and does not have a form of transportation. Grey knows he will need transportation to travel to and from school. Rather than using Uber/Lyft with random strangers to go from place to place he wants to make friends with people at XYZ college so he can carpool with them from time to time. He wishes there was an easier way to find people who go to XYZ college that are in his area.
 
 -Doug is an adventurous person and loves sharing his experience. Since his friends all hate trips, Doug wants to meet new people and take them along for a journey. He wishes there was an easier way to find people who enjoy trips to the beach, to other cities, etc and that are in his area.
