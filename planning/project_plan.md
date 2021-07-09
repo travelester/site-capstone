@@ -50,6 +50,26 @@ List all the pages and screens in the app. Include wireframes for at least 3 of 
 
 Describe your app's data model using diagrams or tables
 
+### Users Table
+Holds user data
+
+| name | type | other constraints |
+| ---- | --------- | ----------- |
+
+### Groups Table
+Holds groups data (same thing as a "trip" or "event")
+
+| name | type | other constraints |
+| ---- | --------- | ----------- |
+
+### Groups-Users Joiner Table
+Serves as table to make the many-to-many relationship between users and groups work.
+Allows a group to have multiple users, and user to be in multiple groups.
+
+| name | type | other constraints |
+| ---- | --------- | ----------- |
+
+
 ## Endpoints
 
 List the API endpoints you will need to implement.
