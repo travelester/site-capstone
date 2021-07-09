@@ -81,7 +81,6 @@ Allows a group to have multiple users, and user to be in multiple groups.
 | group_id | integer | foreign key: references groups.id |
 | user_id | integer | foreign key: references users.id |
 | is_driver | boolean |  |
-
 | created_at | timestamp | not null, defaulted to now |
 
 
