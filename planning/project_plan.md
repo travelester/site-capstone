@@ -55,12 +55,21 @@ Holds user data
 
 | name | type | other constraints |
 | ---- | --------- | ----------- |
+| id | primary key | serial |
+| name | text | not null |
+| email | text | not null, must have '@' after first position |
+| password | text | not null |
+| imgurl | text | not null |
+| created_at | timestamp | not null, defaulted to now |
 
 ### Groups Table
 Holds groups data (same thing as a "trip" or "event")
 
 | name | type | other constraints |
 | ---- | --------- | ----------- |
+| id | primary key | serial |
+| trip_id | integer | not null |
+| created_at | timestamp | not null, defaulted to now |
 
 ### Groups-Users Joiner Table
 Serves as table to make the many-to-many relationship between users and groups work.
@@ -68,6 +77,12 @@ Allows a group to have multiple users, and user to be in multiple groups.
 
 | name | type | other constraints |
 | ---- | --------- | ----------- |
+| id | primary key | serial |
+| group_id | integer | foreign key: references groups.id |
+| user_id | integer | foreign key: references users.id |
+| is_driver | boolean |  |
+
+| created_at | timestamp | not null, defaulted to now |
 
 
 ## Endpoints
