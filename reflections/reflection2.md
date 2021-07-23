@@ -1,6 +1,6 @@
 # Reflection #2
 
-Pod Members: **Add Pod Members Names**
+Pod Members: **Elias Arghand, William Huang, E Shayan Sarnevesht**
 
 ## Reflection Questions
 
