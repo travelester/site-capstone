@@ -6,7 +6,7 @@ Pod Members: **Elias Arghand, William Huang, E Shayan Sarnevesht**
 
 * Name at least one successful thing this week.
 
-This week we were able to utilize our Google Jamboard and implementing stretch features onto our project. We especially focused on CSS this week by cleaning up some pages while also adding button animations, hover effects and changing most of the pages to be responsive to any screen size. For better user experience, we created confirmation poop-ups for when a user joins, leaves and deletes a group. 
+This week we were able to utilize our Google Jamboard and implementing stretch features onto our project. We especially focused on CSS this week by cleaning up some pages while also adding button animations, hover effects and changing most of the pages to be responsive to any screen size. For better user experience, we created confirmation pop-ups for when a user joins, leaves and deletes a group. 
 
 * What were some challenges you and/or your group faced this week?
 
