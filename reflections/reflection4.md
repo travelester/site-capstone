@@ -6,7 +6,7 @@ Pod Members: **Elias Arghand, William Huang, E Shayan Sarnevesht**
 
 * Name at least one successful thing this week.
 
- A huge success from this week was being able to tie up a lot of the css issues being dealt with in terms of image sizes by being able to utilize a static size for the profile picture of users. Furthermore, we were able to utilize Material-UI componenets, allowing for a cohesive theme throughout the web app.
+ A huge success from this week was being able to tie up a lot of the css issues being dealt with in terms of image sizes by being able to utilize a static size for the profile picture of users. Furthermore, we were able to utilize more Material-UI componenets, allowing for a cohesive theme throughout the web app.
 
 * What were some challenges you and/or your group faced this week?
 
