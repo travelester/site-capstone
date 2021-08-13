@@ -11,7 +11,10 @@ Mentors Names: **Mike Griffin, Forrest Dodds, Victor Wei**
 
 ## Project Overview
 
-Add a quick summary of what your project theme and objectives are. 
+Travelester is a travel based social networking web app for college students to gain carpooling buddies for any trips they go on whether it be for commuting, adventure, or other kinds of trips. Users can post about their future trips and gain commute/travel buddies to promote carpooling efforts with familiar faces.
+Alternative to lackluster, informal public Facebook, GroupMe, etc. groups that people use to coordinate travel efforts, travelester has a dedicated infrastructure to serve all college students in need of easier planning and recruiting for any commutes/trips they embark on
+
+
 
 Deployment Website: [https://travelester.surge.sh](https://travelester.surge.sh)
 
