@@ -5,6 +5,7 @@ Pod Members: **Shayan Sarnevesht, Elias Arghand, William Huang**
 ## Reflection Questions
 
 * How was the pacing of the capstone project? (i.e too slow, just right, too fast) 
+The pacing felt just about right for our capacities: we added a few major features each week, and iterated over 
 
 * To what extent did your plan change over the course of development? Knowing that you know now, what would you do differently if you were starting over?
 
