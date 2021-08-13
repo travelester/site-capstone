@@ -19,3 +19,4 @@ Deployment Website: [https://travelester.surge.sh](https://travelester.surge.sh)
 
 - Add any links to open-source libraries used in your project.
 - https://material-ui.com/
+- https://www.npmjs.com/package/google-map-react
