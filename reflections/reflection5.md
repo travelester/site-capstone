@@ -15,4 +15,4 @@ Pod Members: **Shayan Sarnevesht, Elias Arghand, William Huang**
 
 
 * When planning for the capstone project, which resources were the most helpful? (i.e mentors, instructors & TAs, ideation process, pod syncs, wireframes, sprint planning, bug bash, practice demo day, etc.)
-
+For planning, we used our wireframes a lot since Figma generated custom css rules for button coloring among other things. We also used github issue tracking for keeping up with features that needed work, were in active development, or completed. 
